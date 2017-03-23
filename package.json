@@ -1,0 +1,10 @@
+{
+  "name": "dk-node-mysql-extend-connector",
+  "main": "lib/pool.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "xml2js": "0.4.17",
+    "mysql": "2.10.2",
+    "promise": "7.1.1"
+  }
+}
